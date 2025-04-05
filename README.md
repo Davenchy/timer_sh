@@ -121,13 +121,13 @@ timer create Focus 25m
 
 Timers are stored as temporary `.timer` files in `/tmp`, with format:
 
-```json
+```csv
 PID:TASK_NAME:DURATION:STARTED_AT
 ```
 
 Example for `./timer.sh create Focus 25m`:
 
-```json
+```csv
 69842:Focus:1500:2025-04-05 01:09:49
 ```
 
