@@ -91,7 +91,7 @@ Make sure `notify-send` and `mpv` are installed on your system.
 ## 📥 Installation
 
 ```bash
-git clone https://github.com/yourusername/timer.git
+git clone https://github.com/Davenchy/timer.git
 cd timer
 chmod +x timer.sh timer_*.sh
 ```
